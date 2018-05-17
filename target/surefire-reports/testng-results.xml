@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HotstarTest.AppTest" duration-ms="148699" started-at="2018-03-22T18:18:02Z" finished-at="2018-03-22T18:20:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="148699" started-at="2018-03-22T18:18:02Z" finished-at="2018-03-22T18:20:31Z">
+      <class name="HotstarTest.AppTest">
+        <test-method status="PASS" signature="SearchResults()[pri:0, instance:HotstarTest.AppTest@3d8c7aca]" name="SearchResults" duration-ms="148670" started-at="2018-03-22T18:18:02Z" finished-at="2018-03-22T18:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchResults -->
+      </class> <!-- HotstarTest.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- HotstarTest.AppTest -->
+</testng-results>
